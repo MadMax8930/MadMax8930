@@ -1,26 +1,13 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
 
-### Hello World 👋
-
-<div align="center">
+<div align="center" paddint-top="1em">
+<h1 align="center">Hello World 👋</h1>
       
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 </div>
 
-<p align="right">
-Hello World 👋  
-      
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-</p>
-
-<p align="center">
-      
-<a href="https://www.linkedin.com/in/maxsurnin/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:maxsurnin3@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-      
-</p>
 
 <div align="center">
       
@@ -29,7 +16,7 @@ Hello World 👋
       
 </div>
       
-<p align="center" padding="1rem 2rem">
+<div align="center" padding="1em 3em 20px">
 
 Max, 34 years old. Full Stack Web Developer.
 Passionate about crafting scalable & efficient web applications, I bring expertise in building robust front-end interfaces with React/Next.js & developing powerful server-side 
@@ -37,12 +24,14 @@ solutions with Node.js. With a strong foundation in web development principles a
 challenges.
 
 Open to exciting job opportunities worldwide, both full-time and freelance. I am eager to contribute my skills and expertise to innovative projects that drive meaningful impact. Let's connect and discuss how my technical proficiency and problem-solving mindset can bring value to your team.
-      
-<h3 align="right">
+
+</div>
+
+<h2 align="center" padding-bottom="2rem">
 
 Technology Stack 💼
 
-</h3>
+</h2>
 
 ##### Programming Languages
 
@@ -111,7 +100,7 @@ Technology Stack 💼
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
-<div align="center">
+<div align="center" padding-top="2em">
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
 
