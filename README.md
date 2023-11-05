@@ -4,9 +4,12 @@
 
 Skills 💼 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"><img maxWidth="2em" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
-<p align="left"><img max-width="2em" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></p>
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+<p align="left"><img max-width="2em" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
+<p align="left"><img max-width="2em" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="20"/></p>
+<p align="left"><img max-width="2em" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="20"/></p>
+<h3 align="left">Backend Development:</h3>
+<p align="left" background-color="#339933" color="white"><img max-width="2em" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="20"/></p>
+<p align="left" background-color="black" color="white" padding="10px"><img max-width="2em" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="20"/></p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
