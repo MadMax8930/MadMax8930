@@ -1,9 +1,9 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
 
+<span align="center" font-weight="bold" font-style="italic">Hello World 👋</span>
+
 <div align="center">
       
-<h1 align="center" font-weight="bold" font-size="0.5rem">Hello World 👋</h1>
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 </div>
@@ -27,11 +27,11 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 </div>
 
-<h2 align="left" padding-bottom="1.25rem" font-style="italic">
+<span align="left" padding="1rem 2rem" font-style="italic">
 
 Technology Stack  💼
 
-</h2>
+</span>
 
 ##### Programming Languages
 
