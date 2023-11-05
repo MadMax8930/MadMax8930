@@ -10,7 +10,7 @@
 
 <div align="center">
       
-<a href="https://www.linkedin.com/in/maxsurnin/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/maxsurnin/" target="_blank" rel="noopener">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:maxsurnin3@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
       
 </div>
@@ -30,7 +30,7 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 Technology Stack  💼
 
-</h2>
+</h3>
 
 ##### Programming Languages
 <div align="right">
@@ -125,11 +125,13 @@ Technology Stack  💼
 
 <br>
 
-<div align="center padding="12px">
+<div align="center" padding="12px">
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
 
 </div>
+
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/MadMax8930/MadMax8930/assets/78266359/15ff7086-4df7-4250-ae2e-2cd925d1eec7)">
 
       
       
