@@ -2,14 +2,14 @@
 
 ### Hello World 👋
 
-<p align="right">
+<div align="center">
       
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-</p>
+</div>
 
 <p align="right">
-### Hello World 👋  
+Hello World 👋  
       
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
@@ -20,9 +20,16 @@
 <a href="https://www.linkedin.com/in/maxsurnin/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:maxsurnin3@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
       
+</p>
+
+<div align="center">
+      
+<a href="https://www.linkedin.com/in/maxsurnin/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:maxsurnin3@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+      
 </div>
       
-<p align="center">
+<p align="center" padding="1rem 2rem">
 
 Max, 34 years old. Full Stack Web Developer.
 Passionate about crafting scalable & efficient web applications, I bring expertise in building robust front-end interfaces with React/Next.js & developing powerful server-side 
@@ -31,7 +38,11 @@ challenges.
 
 Open to exciting job opportunities worldwide, both full-time and freelance. I am eager to contribute my skills and expertise to innovative projects that drive meaningful impact. Let's connect and discuss how my technical proficiency and problem-solving mindset can bring value to your team.
       
-### Technology Stack 💼
+<h3 align="right">
+
+Technology Stack 💼
+
+</h3>
 
 ##### Programming Languages
 
