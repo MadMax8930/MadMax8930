@@ -1,10 +1,19 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
-## Hello World 👋 
+
+<p align="center">
+      
+### Hello World 👋 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</p>
 
+<p align="center">
+      
+<a href="https://www.linkedin.com/in/maxsurnin/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:maxsurnin3@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+      
+</p>
+      
 <p align="center">
 
 Max, 34 years old. Full Stack Web Developer.
@@ -16,9 +25,11 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 </p>
 
-<h1 align="center">
-### Technology Stack 💼
-</h1>
+<p align="center">
+      
+#### Technology Stack 💼
+
+</p>
 
 ##### Programming Languages
 
@@ -87,8 +98,8 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
-<h1 align="center">Top Languages
+<div align="center" display="flex>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
-
-</h1>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
