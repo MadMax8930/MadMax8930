@@ -1,12 +1,12 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
 
-<div align="center" paddint-top="1em">
-<h1 align="center">Hello World 👋</h1>
+<div align="center" paddint-top="0.25rem">
       
+<h1 align="center" font-weight="bold" font-size="0.75">Hello World 👋</h1>
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 </div>
-
 
 
 <div align="center">
@@ -16,7 +16,7 @@
       
 </div>
       
-<div align="center" padding="1em 3em 20px">
+<div padding="0.5rem 2rem 1rem">
 
 Max, 34 years old. Full Stack Web Developer.
 Passionate about crafting scalable & efficient web applications, I bring expertise in building robust front-end interfaces with React/Next.js & developing powerful server-side 
@@ -27,11 +27,11 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 </div>
 
-<h2 align="center" padding-bottom="2rem">
+<h3 align="left" padding-bottom="1rem">
 
 Technology Stack 💼
 
-</h2>
+</h3>
 
 ##### Programming Languages
 
