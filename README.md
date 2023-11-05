@@ -15,7 +15,7 @@
       
 </div>
       
-<div padding="0.5rem 2.5rem 1rem">
+<div padding="0.5rem 2.5rem 0.75rem">
 
 Max, 34 years old. Full Stack Web Developer.
 Passionate about crafting scalable & efficient web applications, I bring expertise in building robust front-end interfaces with React/Next.js & developing powerful server-side 
@@ -26,12 +26,13 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 </div>
 
-<h2 align="left" padding="1rem 2rem 0rem" font-style="italic">
+<h3 align="center" padding="1rem 2rem 0rem">
 
 Technology Stack  💼
 
 </h2>
-#### Programming Languages
+
+##### Programming Languages
 <div align="right">
       
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
@@ -42,17 +43,17 @@ Technology Stack  💼
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 </div>
       
-#### Frontend Development
+###### Frontend Development
 <div align="right">
       
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 </div>
 
-#### UI/Design Technologies
+##### UI/Design Technologies
 <div align="right">
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -62,7 +63,7 @@ Technology Stack  💼
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 </div>
 
-##### Backend Development
+###### Backend Development
 <div align="right">
       
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -72,7 +73,7 @@ Technology Stack  💼
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
-##### ORM & Databases
+###### ORM & Databases
 <div align="right">
       
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
@@ -80,10 +81,9 @@ Technology Stack  💼
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 </div>
 
-##### Cloud Hosting & Deployment
+###### Cloud Hosting & Deployment
 <div align="right">
       
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -92,10 +92,9 @@ Technology Stack  💼
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 </div>
 
-##### Project Management & Collaboration
+###### Project Management & Collaboration
 <div align="right">
       
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -106,7 +105,7 @@ Technology Stack  💼
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 </div>
 
-##### Documentation & Testing
+###### Documentation & Testing
 <div align="right">
       
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -116,7 +115,7 @@ Technology Stack  💼
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 </div>
 
-##### Mobile Development
+###### Mobile Development
 <div align="right">
       
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -124,13 +123,11 @@ Technology Stack  💼
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 </div>
 
-<br/>
+<br>
 
-<div display="flex" justify-content="space-around" padding="1rem" justify="space-around" justify="around" content="between">
+<div align="center padding="12px">
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=tokyo)
 
 </div>
 
