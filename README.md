@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
 
-<span align="center" font-weight="bold" font-style="italic">Hello World 👋</span>
+<h2 align="center" font-weight="bold" font-style="italic">Hello World 👋</h2>
 
 <div align="center">
       
@@ -27,11 +27,11 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 </div>
 
-<span align="left" padding="1rem 2rem" font-style="italic">
+<h3 align="left" padding="1rem 2rem" font-style="italic">
 
 Technology Stack  💼
 
-</span>
+</h3>
 
 ##### Programming Languages
 
@@ -100,11 +100,13 @@ Technology Stack  💼
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<br/>
+
 <div align="center" padding-top="2rem" margin-top="10px">
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
 
-</siv>
+</div>
 
       
       
