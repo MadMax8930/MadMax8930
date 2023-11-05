@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
 
-<div align="center" paddint-top="0.25rem">
+<div align="center">
       
-<h1 align="center" font-weight="bold" font-size="0.75">Hello World 👋</h1>
+<h1 align="center" font-weight="bold" font-size="0.5rem">Hello World 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
@@ -27,11 +27,11 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 
 </div>
 
-<h3 align="left" padding-bottom="1rem">
+<h2 align="left" padding-bottom="1.25rem" font-style="italic">
 
-Technology Stack 💼
+Technology Stack  💼
 
-</h3>
+</h2>
 
 ##### Programming Languages
 
@@ -79,8 +79,8 @@ Technology Stack 💼
 
 ##### Project Management & Collaboration
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -96,11 +96,11 @@ Technology Stack 💼
 
 ##### Mobile Development
         
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
-<div align="center" padding-top="2em">
+<div align="center" padding-top="2rem" margin-top="10px">
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
 
