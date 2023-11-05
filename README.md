@@ -1,18 +1,17 @@
 [![MasterHead](https://github.com/MadMax8930/MadMax8930/assets/78266359/8755ce0f-1ef5-4542-97e7-9f22aada947b)](https://github.com/MadMax8930)
 
-<p align="center">
+<h1 align="center">
       
-### Hello World 👋 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+Hello World 👋 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-</p>
+</h1>
 
-<p align="center">
+<div align="center">
       
-<a href="https://www.linkedin.com/in/maxsurnin/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:maxsurnin3@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/maxsurnin/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:maxsurnin3@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
       
-</p>
+</div>
       
 <p align="center">
 
@@ -23,13 +22,12 @@ challenges.
 
 Open to exciting job opportunities worldwide, both full-time and freelance. I am eager to contribute my skills and expertise to innovative projects that drive meaningful impact. Let's connect and discuss how my technical proficiency and problem-solving mindset can bring value to your team.
 
-</p>
 
-<p align="center">
+<h2 align="center">
       
-#### Technology Stack 💼
+Technology Stack 💼
 
-</p>
+</h2>
 
 ##### Programming Languages
 
@@ -98,8 +96,11 @@ Open to exciting job opportunities worldwide, both full-time and freelance. I am
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
-<div align="center" display="flex>
-
+<p align="center">
+      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax8930&layout=compact&theme=dracula)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
+
+</p>
+
+      
+      
